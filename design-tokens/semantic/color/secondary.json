@@ -1,69 +1,69 @@
 {
   "color": {
-    "support": {
+    "main": {
       "background-default": {
         "$type": "color",
-        "$value": "{color.brand2.background-default}"
+        "$value": "{color.secondary.1}"
       },
       "background-tinted": {
         "$type": "color",
-        "$value": "{color.brand2.background-tinted}"
+        "$value": "{color.secondary.2}"
       },
       "surface-default": {
         "$type": "color",
-        "$value": "{color.brand2.surface-default}"
+        "$value": "{color.secondary.3}"
       },
       "surface-tinted": {
         "$type": "color",
-        "$value": "{color.brand2.surface-tinted}"
+        "$value": "{color.secondary.4}"
       },
       "surface-hover": {
         "$type": "color",
-        "$value": "{color.brand2.surface-hover}"
+        "$value": "{color.secondary.5}"
       },
       "surface-active": {
         "$type": "color",
-        "$value": "{color.brand2.surface-active}"
+        "$value": "{color.secondary.6}"
       },
       "border-subtle": {
         "$type": "color",
-        "$value": "{color.brand2.border-subtle}"
+        "$value": "{color.secondary.7}"
       },
       "border-default": {
         "$type": "color",
-        "$value": "{color.brand2.border-default}"
+        "$value": "{color.secondary.8}"
       },
       "border-strong": {
         "$type": "color",
-        "$value": "{color.brand2.border-strong}"
+        "$value": "{color.secondary.9}"
       },
       "text-subtle": {
         "$type": "color",
-        "$value": "{color.brand2.text-subtle}"
+        "$value": "{color.secondary.10}"
       },
       "text-default": {
         "$type": "color",
-        "$value": "{color.brand2.text-default}"
+        "$value": "{color.secondary.11}"
       },
       "base-default": {
         "$type": "color",
-        "$value": "{color.brand2.base-default}"
+        "$value": "{color.secondary.12}"
       },
       "base-hover": {
         "$type": "color",
-        "$value": "{color.brand2.base-hover}"
+        "$value": "{color.secondary.13}"
       },
       "base-active": {
         "$type": "color",
-        "$value": "{color.brand2.base-active}"
+        "$value": "{color.secondary.14}"
       },
       "base-contrast-subtle": {
         "$type": "color",
-        "$value": "{color.brand2.base-contrast-subtle}"
+        "$value": "{color.secondary.15}"
       },
       "base-contrast-default": {
         "$type": "color",
-        "$value": "{color.brand2.base-contrast-default}"
+        "$value": "{color.secondary.16}"
       }
     }
   }

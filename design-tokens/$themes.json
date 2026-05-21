@@ -104,32 +104,72 @@
     "id": "593774a74235b661fff40693ca7bda160aadfb74",
     "name": "primary",
     "selectedTokenSets": {
-      "semantic/modes/main-color/primary": "enabled"
+      "semantic/color/primary": "enabled"
     },
-    "group": "Main color"
+    "group": "Color"
   },
   {
     "id": "e610f39341776da3131ab35ba751b53d9a14b80a",
     "name": "secondary",
     "selectedTokenSets": {
-      "semantic/modes/main-color/secondary": "enabled"
+      "semantic/color/secondary": "enabled"
     },
-    "group": "Main color"
+    "group": "Color"
   },
   {
     "id": "77270e21ea69e87b1111ab73f82f2c9501ffb509",
     "name": "brand1",
     "selectedTokenSets": {
-      "semantic/modes/support-color/brand1": "enabled"
+      "semantic/color/brand1": "enabled"
     },
-    "group": "Support color"
+    "group": "Color"
   },
   {
     "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
     "name": "brand2",
     "selectedTokenSets": {
-      "semantic/modes/support-color/brand2": "enabled"
+      "semantic/color/brand2": "enabled"
     },
-    "group": "Support color"
+    "group": "Color"
+  },
+  {
+    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
+    "name": "neutral",
+    "selectedTokenSets": {
+      "semantic/color/neutral": "enabled"
+    },
+    "group": "Color"
+  },
+  {
+    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
+    "name": "warning",
+    "selectedTokenSets": {
+      "semantic/color/warning": "enabled"
+    },
+    "group": "Color"
+  },
+  {
+    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
+    "name": "danger",
+    "selectedTokenSets": {
+      "semantic/color/danger": "enabled"
+    },
+    "group": "Color"
+  },
+  {
+    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
+    "name": "success",
+    "selectedTokenSets": {
+      "semantic/color/success": "enabled"
+    },
+    "group": "Color"
+  },
+  {
+    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
+    "name": "info",
+    "selectedTokenSets": {
+      "semantic/color/info": "enabled"
+    },
+    "group": "Color"
   }
 ]
