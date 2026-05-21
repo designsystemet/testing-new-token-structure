@@ -15,6 +15,9 @@
     "themes/sample-theme",
     "semantic/color",
     "semantic/modes/main-color/primary",
+    "semantic/modes/main-color/secondary",
+    "semantic/modes/support-color/brand1",
+    "semantic/modes/support-color/brand2",
     "semantic/style"
   ]
 }

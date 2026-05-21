@@ -6,6 +6,9 @@ import type {} from '@digdir/designsystemet-types';
 declare module '@digdir/designsystemet-types' {
   export interface ColorDefinitions {
     primary: never;
+    secondary: never;
+    brand1: never;
+    brand2: never;
     neutral: never;
   }
   export interface SeverityColorDefinitions {
