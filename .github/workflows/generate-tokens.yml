@@ -1,11 +1,12 @@
 name: Generate Design Tokens
 
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'designsystemet.config.json'
+# Pausing this for now
+# on:
+#  push:
+#    branches:
+#      - main
+#    paths:
+#      - 'designsystemet.config.json'
 
 jobs:
   generate-tokens:

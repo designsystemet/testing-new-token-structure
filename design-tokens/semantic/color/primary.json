@@ -2,67 +2,67 @@
   "color": {
     "background-default": {
       "$type": "color",
-      "$value": "{color.primary.1}"
+      "$value": "{color.primary.background-default}"
     },
     "background-tinted": {
       "$type": "color",
-      "$value": "{color.primary.2}"
+      "$value": "{color.primary.background-tinted}"
     },
     "surface-default": {
       "$type": "color",
-      "$value": "{color.primary.3}"
+      "$value": "{color.primary.surface-default}"
     },
     "surface-tinted": {
       "$type": "color",
-      "$value": "{color.primary.4}"
+      "$value": "{color.primary.surface-tinted}"
     },
     "surface-hover": {
       "$type": "color",
-      "$value": "{color.primary.5}"
+      "$value": "{color.primary.surface-hover}"
     },
     "surface-active": {
       "$type": "color",
-      "$value": "{color.primary.6}"
+      "$value": "{color.primary.surface-active}"
     },
     "border-subtle": {
       "$type": "color",
-      "$value": "{color.primary.7}"
+      "$value": "{color.primary.border-subtle}"
     },
     "border-default": {
       "$type": "color",
-      "$value": "{color.primary.8}"
+      "$value": "{color.primary.border-default}"
     },
     "border-strong": {
       "$type": "color",
-      "$value": "{color.primary.9}"
+      "$value": "{color.primary.border-strong}"
     },
     "text-subtle": {
       "$type": "color",
-      "$value": "{color.primary.10}"
+      "$value": "{color.primary.text-subtle}"
     },
     "text-default": {
       "$type": "color",
-      "$value": "{color.primary.11}"
+      "$value": "{color.primary.text-default}"
     },
     "base-default": {
       "$type": "color",
-      "$value": "{color.primary.12}"
+      "$value": "{color.primary.base-default}"
     },
     "base-hover": {
       "$type": "color",
-      "$value": "{color.primary.13}"
+      "$value": "{color.primary.base-hover}"
     },
     "base-active": {
       "$type": "color",
-      "$value": "{color.primary.14}"
+      "$value": "{color.primary.base-active}"
     },
     "base-contrast-subtle": {
       "$type": "color",
-      "$value": "{color.primary.15}"
+      "$value": "{color.primary.base-contrast-subtle}"
     },
     "base-contrast-default": {
       "$type": "color",
-      "$value": "{color.primary.16}"
+      "$value": "{color.primary.base-contrast-default}"
     }
   }
 }
