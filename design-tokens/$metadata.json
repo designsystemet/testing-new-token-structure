@@ -14,10 +14,15 @@
     "primitives/modes/color-scheme/light/sample-theme",
     "themes/sample-theme",
     "semantic/color",
-    "semantic/modes/main-color/primary",
-    "semantic/modes/main-color/secondary",
-    "semantic/modes/support-color/brand1",
-    "semantic/modes/support-color/brand2",
+    "semantic/color/primary",
+    "semantic/color/secondary",
+    "semantic/color/brand1",
+    "semantic/color/brand2",
+    "semantic/color/neutral",
+    "semantic/color/info",
+    "semantic/color/success",
+    "semantic/color/warning",
+    "semantic/color/danger",
     "semantic/style"
   ]
 }

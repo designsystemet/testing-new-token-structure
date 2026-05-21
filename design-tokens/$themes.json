@@ -100,7 +100,7 @@
     "group": "Semantic"
   },
   {
-    "id": "593774a74235b661fff40693ca7bda160aadfb74",
+    "id": "e3b7c980d763196e9d134c3ec1c3de0ded54e5ce",
     "name": "primary",
     "selectedTokenSets": {
       "semantic/color/primary": "enabled"
@@ -108,7 +108,7 @@
     "group": "Color"
   },
   {
-    "id": "e610f39341776da3131ab35ba751b53d9a14b80a",
+    "id": "e059fc6904f0a3146139802d09bc08d1c34f0e25",
     "name": "secondary",
     "selectedTokenSets": {
       "semantic/color/secondary": "enabled"
@@ -116,7 +116,7 @@
     "group": "Color"
   },
   {
-    "id": "77270e21ea69e87b1111ab73f82f2c9501ffb509",
+    "id": "8a351e1bb79110ad4ea1c7eaa9949439ae7f07f6",
     "name": "brand1",
     "selectedTokenSets": {
       "semantic/color/brand1": "enabled"
@@ -124,7 +124,7 @@
     "group": "Color"
   },
   {
-    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
+    "id": "0097f745bc0669d9eca6f59ae5dc4082f3ce0540",
     "name": "brand2",
     "selectedTokenSets": {
       "semantic/color/brand2": "enabled"
@@ -132,7 +132,7 @@
     "group": "Color"
   },
   {
-    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
+    "id": "e7fb41a6a0544d8a8aa178232034311f9d725555",
     "name": "neutral",
     "selectedTokenSets": {
       "semantic/color/neutral": "enabled"
@@ -140,23 +140,15 @@
     "group": "Color"
   },
   {
-    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
-    "name": "warning",
+    "id": "59bd0a3ff43b32849b319e645d4798d8a5d1e889",
+    "name": "info",
     "selectedTokenSets": {
-      "semantic/color/warning": "enabled"
+      "semantic/color/info": "enabled"
     },
     "group": "Color"
   },
   {
-    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
-    "name": "danger",
-    "selectedTokenSets": {
-      "semantic/color/danger": "enabled"
-    },
-    "group": "Color"
-  },
-  {
-    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
+    "id": "53a5687cb26dc41f2ab4033e97e13adefd3740d6",
     "name": "success",
     "selectedTokenSets": {
       "semantic/color/success": "enabled"
@@ -164,10 +156,18 @@
     "group": "Color"
   },
   {
-    "id": "f048e6cbea788b19c6789b0d2d9307adbcb6efe9",
-    "name": "info",
+    "id": "383fd7bf84aa027bdc40159c5d7c5805664a8eb2",
+    "name": "warning",
     "selectedTokenSets": {
-      "semantic/color/info": "enabled"
+      "semantic/color/warning": "enabled"
+    },
+    "group": "Color"
+  },
+  {
+    "id": "222b3e11200d82d61f1b89533e59175f71d23972",
+    "name": "danger",
+    "selectedTokenSets": {
+      "semantic/color/danger": "enabled"
     },
     "group": "Color"
   }
