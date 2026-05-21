@@ -2,7 +2,14 @@
   "themes": {
     "sample-theme": {
       "colors": {
-        "main": { "primary": "#0062BA" },
+        "main": { 
+          "primary": "#0062BA",
+          "secondary": "#5bf56e"
+         },
+        "support": { 
+          "brand1": "#0D7A5F",
+          "brand2": "#5B3FA0"
+        },
         "neutral": "#24272B"
       },
       "borderRadius": 4,
